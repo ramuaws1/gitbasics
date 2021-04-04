@@ -1,0 +1,13 @@
+Git Commands
+------------
+1.git --version  (if already installed then this command is used for knowing the version.)
+2.sudo apt update (to download package information from all configured sources.)
+3.sudo apt install git(for installing git)
+4.git init(it will iniate the git repository in local machine)
+5.git remote add origin "url"(it will make connection with the url with name "origin")
+6.git add .(To add files to staging area)
+7.git status(it displays the state of the working directory and the staging area)
+8.git commit -m "name of commit"(it is the term used for saving changes).
+9.git push origin master(it push file to remote repository)
+
+
